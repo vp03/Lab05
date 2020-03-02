@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="activity_lifecycle">Activity Lifecycle!</string>
+    <string name="this_run">This Run</string>
+    <string name="entire_life">Entire Life</string>
+    <string name="oncreate">onCreate</string>
+    <string name="onstart">onStart</string>
+    <string name="onresume">onResume</string>
+    <string name="onpause">onPause</string>
+    <string name="onstop">onStop</string>
+    <string name="onrestart">onRestart</string>
+    <string name="create1">create1</string>
+    <string name="start1">start1</string>
+    <string name="resume1">resume1</string>
+    <string name="pause1">pause1</string>
+    <string name="stop1">stop1</string>
+    <string name="restart1">restart1</string>
+    <string name="ondestroy">onDestroy</string>
+    <string name="destroy1">destroy1</string>
+    <string name="create2">create2</string>
+    <string name="start2">start2</string>
+    <string name="resume2">resume2</string>
+    <string name="pause2">pause2</string>
+    <string name="stop2">stop2</string>
+    <string name="restart2">restart2</string>
+    <string name="destroy2">destroy2</string>
+</resources>
