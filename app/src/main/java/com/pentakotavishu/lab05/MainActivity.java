@@ -196,7 +196,7 @@ public class MainActivity extends AppCompatActivity {
         responseText17.setText("" + help);
         responseText27.setText("" + finished);
 
-        Log.i("testButton", "Hi mom! "+responseText27.getText().toString());
+        Log.i("testButton", "Hi mo! "+responseText27.getText().toString());
     }
 
     public class Counter{
